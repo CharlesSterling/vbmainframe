@@ -1,0 +1,12 @@
+C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\bin\Debug\Old MainFrame App.exe.config
+C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\bin\Debug\Old MainFrame App.exe
+C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\bin\Debug\Old MainFrame App.pdb
+C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\bin\Debug\Old MainFrame App.xml
+C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\obj\Debug\Old MainFrame App.vbprojAssemblyReference.cache
+C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\obj\Debug\Old_MainFrame_App.Resources.resources
+C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\obj\Debug\Old_MainFrame_App.Form1.resources
+C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\obj\Debug\Old MainFrame App.vbproj.GenerateResource.cache
+C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\obj\Debug\Old MainFrame App.vbproj.CoreCompileInputs.cache
+C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\obj\Debug\Old MainFrame App.exe
+C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\obj\Debug\Old MainFrame App.xml
+C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\obj\Debug\Old MainFrame App.pdb
