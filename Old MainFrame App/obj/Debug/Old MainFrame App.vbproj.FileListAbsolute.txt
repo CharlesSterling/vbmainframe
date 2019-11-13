@@ -10,3 +10,15 @@ C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\obj\Debu
 C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\obj\Debug\Old MainFrame App.exe
 C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\obj\Debug\Old MainFrame App.xml
 C:\Users\chass.REDMOND\source\repos\Old MainFrame App\Old MainFrame App\obj\Debug\Old MainFrame App.pdb
+C:\Users\acoat\Source\Repos\vbmainframe\Old MainFrame App\bin\Debug\Old MainFrame App.exe.config
+C:\Users\acoat\Source\Repos\vbmainframe\Old MainFrame App\bin\Debug\Old MainFrame App.exe
+C:\Users\acoat\Source\Repos\vbmainframe\Old MainFrame App\bin\Debug\Old MainFrame App.pdb
+C:\Users\acoat\Source\Repos\vbmainframe\Old MainFrame App\bin\Debug\Old MainFrame App.xml
+C:\Users\acoat\Source\Repos\vbmainframe\Old MainFrame App\obj\Debug\Old MainFrame App.vbprojAssemblyReference.cache
+C:\Users\acoat\Source\Repos\vbmainframe\Old MainFrame App\obj\Debug\Old_MainFrame_App.Resources.resources
+C:\Users\acoat\Source\Repos\vbmainframe\Old MainFrame App\obj\Debug\Old_MainFrame_App.Form1.resources
+C:\Users\acoat\Source\Repos\vbmainframe\Old MainFrame App\obj\Debug\Old_MainFrame_App.Oracle2.resources
+C:\Users\acoat\Source\Repos\vbmainframe\Old MainFrame App\obj\Debug\Old MainFrame App.vbproj.GenerateResource.cache
+C:\Users\acoat\Source\Repos\vbmainframe\Old MainFrame App\obj\Debug\Old MainFrame App.exe
+C:\Users\acoat\Source\Repos\vbmainframe\Old MainFrame App\obj\Debug\Old MainFrame App.xml
+C:\Users\acoat\Source\Repos\vbmainframe\Old MainFrame App\obj\Debug\Old MainFrame App.pdb
