@@ -94,6 +94,12 @@
     <Compile Include="Oracle.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Oracle2.Designer.vb">
+      <DependentUpon>Oracle2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Oracle2.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -104,6 +110,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Oracle.resx">
       <DependentUpon>Oracle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Oracle2.resx">
+      <DependentUpon>Oracle2.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
